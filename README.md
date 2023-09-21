@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darodix
-- 👀 I’m interested in Physics
+- 👀 I’m interested in Thoretical Physics, Superconductivity, Apllied Phyiscs, Medical Physics, Machine Learning and Programming
 - 🌱 I’m currently learning Transformers and RL
 
    

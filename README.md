@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darodix
-- 👀 I’m interested in Thoretical Physics, Superconductivity, Apllied Phyiscs, Medical Physics, Machine Learning and Programming
+- 👀 I’m interested in Thoretical Physics, Superconductivity, Apllied Phyiscs, Medical Physics, Machine Learning, Programming and Data Analysis
 
 
    

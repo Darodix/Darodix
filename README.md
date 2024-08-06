@@ -1,5 +1,5 @@
 - Currently working as a Reseach Assistant at HUG in ECG data analysis for epilepsy
-- If you've managed to arrive here from my CV, first, thank you for your interest. Second, if my profile seems empty, it's because many projects are hidden.
+- If you've managed to arrive here from my CV, first, thank you for your interest. Second, if my profile seems empty, it's because many projects are private. If you are interested in my work just contact me or make me a job offer.
 
 
 <!---
